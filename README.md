@@ -21,3 +21,7 @@
 * 玩家（player）可通过键盘的up、left、down、right键来控制玩家的上下左右移动，但不许超过Canvas范围
 * 敌人（enemy）在场景中的道路上移动速度变化不一
 * 一旦玩家撞到敌人，游戏就会重置，并且玩家返回起始方框；玩家抵达水域后，游戏胜利
+
+## how to View the project
+  Click on this link to view:  http://inmy.love/Arcade-Game-Clone/
+  
